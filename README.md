@@ -8,7 +8,6 @@ Ali Zafari and Shirin Jalali. "Neural Compression for Efficient Weight Estimatio
 ## Requirements
 
 - Python > 3.11
-- Jupyter Lab
 - PyTorch
-- CompressAI
-
+- sewar
+- scikit-image
